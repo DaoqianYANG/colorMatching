@@ -1,3 +1,19 @@
+# 色搭 项目许可证声明
+本项目 "色搭" 是基于 "Color颜值" 项目的衍生作品，遵循GNU通用公共许可证第三版（GPL-3.0）或更高版本。
+
+## 原始项目信息
+- 原项目名称：Color颜值
+- 原作者：蔡炜桀
+- 原许可证：GPL-3.0-or-later
+- 原始代码可访问：https://github.com/czcaiwj/color
+
+## 衍生项目信息
+- 衍生项目名称：色搭
+- 衍生作者：杨国兴
+- 项目修改内容：将微信小程序重构为鸿蒙系统应用，调整了UI和部分功能逻辑。
+- 源代码获取方式：本项目源代码可通过https://github.com/DaoqianYANG/colorMatching获取，或联系作者杨国兴获取。
+
+## 许可证文本
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 

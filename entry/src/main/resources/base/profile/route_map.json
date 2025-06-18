@@ -1,0 +1,122 @@
+{
+  "routerMap": [
+    {
+      "name": "plazaIndex",
+      "pageSourceFile": "src/main/ets/pages/plaza/Index.ets",
+      "buildFunction": "plazaIndexBuilder",
+      "data": {
+        "description" : "this is plaza_Index page"
+      }
+    },
+    {
+      "name": "plazaChina",
+      "pageSourceFile": "src/main/ets/pages/plaza/China.ets",
+      "buildFunction": "plazaChinaBuilder"
+    },
+    {
+      "name": "plazaJapan",
+      "pageSourceFile": "src/main/ets/pages/plaza/Japan.ets",
+      "buildFunction": "plazaJapanBuilder"
+    },
+    {
+      "name": "fav",
+      "pageSourceFile": "src/main/ets/pages/fav/Fav.ets",
+      "buildFunction": "favBuilder"
+    },
+    {
+      "name": "myFav",
+      "pageSourceFile": "src/main/ets/pages/fav/MyFav.ets",
+      "buildFunction": "myFavBuilder"
+    },
+    {
+      "name": "favDetail",
+      "pageSourceFile": "src/main/ets/pages/fav/Detail.ets",
+      "buildFunction": "favDetailBuilder"
+    },
+    {
+      "name": "favEdit",
+      "pageSourceFile": "src/main/ets/pages/fav/Edit.ets",
+      "buildFunction": "favEditBuilder"
+    },
+    {
+      "name": "ColorDetail",
+      "pageSourceFile": "src/main/ets/pages/ColorDetail.ets",
+      "buildFunction": "ColorDetailBuilder"
+    },
+    {
+      "name": "transition",
+      "pageSourceFile": "src/main/ets/pages/transition/Transition.ets",
+      "buildFunction": "transitionBuilder"
+    },
+    {
+      "name": "tools",
+      "pageSourceFile": "src/main/ets/pages/tools/Tools.ets",
+      "buildFunction": "toolsBuilder"
+    },
+    {
+      "name": "lucky",
+      "pageSourceFile": "src/main/ets/pages/tools/Lucky.ets",
+      "buildFunction": "luckyBuilder"
+    },
+    {
+      "name": "analogous",
+      "pageSourceFile": "src/main/ets/pages/tools/Analogous.ets",
+      "buildFunction": "analogousBuilder"
+    },
+    {
+      "name": "complementary",
+      "pageSourceFile": "src/main/ets/pages/tools/Complementary.ets",
+      "buildFunction": "complementaryBuilder"
+    },
+    {
+      "name": "triad",
+      "pageSourceFile": "src/main/ets/pages/tools/Triad.ets",
+      "buildFunction": "triadBuilder"
+    },
+    {
+      "name": "monochromatic",
+      "pageSourceFile": "src/main/ets/pages/tools/Monochromatic.ets",
+      "buildFunction": "monochromaticBuilder"
+    },
+    {
+      "name": "shade",
+      "pageSourceFile": "src/main/ets/pages/tools/Shade.ets",
+      "buildFunction": "shadeBuilder"
+    },
+    {
+      "name": "secondary",
+      "pageSourceFile": "src/main/ets/pages/tools/Secondary.ets",
+      "buildFunction": "secondaryBuilder"
+    },
+    {
+      "name": "webIndex",
+      "pageSourceFile": "src/main/ets/pages/web/Index.ets",
+      "buildFunction": "webIndexBuilder"
+    },
+    {
+      "name": "cssColor",
+      "pageSourceFile": "src/main/ets/pages/web/CssColor.ets",
+      "buildFunction": "cssColorBuilder"
+    },
+    {
+      "name": "webColor",
+      "pageSourceFile": "src/main/ets/pages/web/WebColor.ets",
+      "buildFunction": "webColorBuilder"
+    },
+    {
+      "name": "grayLevel",
+      "pageSourceFile": "src/main/ets/pages/web/GrayLevel.ets",
+      "buildFunction": "grayLevelBuilder"
+    },
+    {
+      "name": "about",
+      "pageSourceFile": "src/main/ets/pages/About.ets",
+      "buildFunction": "aboutBuilder"
+    },
+    {
+      "name": "license",
+      "pageSourceFile": "src/main/ets/pages/License.ets",
+      "buildFunction": "licenseBuilder"
+    }
+  ]
+}
