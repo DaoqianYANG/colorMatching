@@ -1,10 +1,11 @@
 本项目遵循GPL-3.0-or-later许可证，完整条款见[LICENSE](LICENSE)文件。
 
 ### **鸿蒙应用开源项目.HarmonyOS、ArkTS、ArkUI**
-
-### 无联网单机项目 应用页面已适配折叠屏、上下分屏、左右分屏 适用于学习
+无联网单机项目 应用页面已适配普通屏、折叠屏、平板、即应用上下分屏、左右分屏 适用于学习和样式参考和窗口宽高的异步处理参考。
 
 本项目基于 "Color颜值" 微信小程序项目的衍生作品，遵循GNU通用公共许可证第三版（GPL-3.0）或更高版本。原始代码可访问：https://github.com/czcaiwj/color
+
+### 功能说明
 
 色搭配是一个基于色轮配色原理的鸿蒙App。通过这一鸿蒙App，可以搭配出协调的色彩，令你的配色工作更加轻松。
 
@@ -30,7 +31,7 @@ _三、配色工具，提供了基于六种颜色关系的配色算法。 1、�
 
 _四、Web颜色，列举了Web标准规范中HTML和CSS定义的标准色和安全色。_
 
-App截图
+### App截图
 
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T000821.png" width="40%" alt="Color色搭"><br>
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T000925.png" width="60%" alt="配色广场"><br>
@@ -39,9 +40,27 @@ App截图
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T001027.png" width="60%" alt="Web颜色"><br>
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T001037.png" width="60%" alt="色彩工具"><br>
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T001100.png" width="60%" alt="互补色配色"><br>
-<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T001005.png" width="100%" alt="颜色转换"><br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2FScreenshot_2025-06-19T001005.png" width="60%" alt="颜色转换"><br>
 
+### 安装说明
+[开发环境下载和安装指南](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/ide-software-install)<br>
+1.打开 DevEco Studio并打开本项目文件夹，选择右上方菜单栏中的 NoDevices > Device Manager 图标（长得像手机） 来打开设备管理器。<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F1.png" width="1024px" alt="1"><br>
+2.在 Device Manager 窗口中，点击 New Emulator,从设备列表里挑选一款设备（例如 Phone），然后点击 Next，要是没有已下载的镜像，点击 Download 进行下载，下载完成后点击 Next。<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F2.png" width="1024px" alt="2"><br>
+3.为模拟器设置名称（可以使用默认名称），再点击 Finish 完成创建。<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F3.png" width="1024px" alt="2"><br>
+4.在 Device Manager 窗口中，找到已创建的模拟器，点击模拟器右侧的 Run 按钮（三角形图标）。<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F4.png" width="1024px" alt="2"><br>
+5.模拟器会自动启动，启动过程可能需要 1 - 2 分钟。<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F5.png" width="1024px" alt="2"><br>
+6.模拟器启动完毕后，右上方菜单栏中的 NoDevices下拉框会出现刚创建并启动模拟器，选中它后点Run按钮<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F6.png" width="1024px" alt="2"><br>
+7.等待项目构建完成，大概30~50秒即会自动运行本项目<br>
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F7.png" width="1024px" alt="2"><br>
+
+### 感谢🙏~
 
 谢谢喏~ 🙏谢谢(🙏ˊᗜˋ*) 祝您阖家平安!六腑调泰!朱颜长春进致四方钱财~生活常处富足之中!~~~
 
-<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2Faa.png" width="60%" alt="答谢作者">
+<img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2Faa.png" width="80%" alt="答谢作者">
