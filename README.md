@@ -45,35 +45,23 @@ _四、Web颜色，列举了Web标准规范中HTML和CSS定义的标准色和安
 ### 安装说明
 [开发环境下载和安装指南](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/ide-software-install)<br>
 1.打开 DevEco Studio并打开本项目文件夹，选择右上方菜单栏中的 NoDevices > Device Manager 图标（长得像手机） 来打开设备管理器。<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F1.png" width="1024px" alt="1"><br>
-
 2.在 Device Manager 窗口中，点击 New Emulator,从设备列表里挑选一款设备（例如 Phone），然后点击 Next，要是没有已下载的镜像，点击 Download 进行下载，下载完成后点击 Next。<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F2.png" width="1024px" alt="2"><br>
-
 3.为模拟器设置名称（可以使用默认名称），再点击 Finish 完成创建。<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F3.png" width="1024px" alt="2"><br>
-
 4.在 Device Manager 窗口中，找到已创建的模拟器，点击模拟器右侧的 Run 按钮（三角形图标）。<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F4.png" width="1024px" alt="2"><br>
-
 5.模拟器会自动启动，启动过程可能需要 1 - 2 分钟。<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F5.png" width="1024px" alt="2"><br>
-
 6.模拟器启动完毕后，右上方菜单栏中的 NoDevices下拉框会出现刚创建并启动模拟器，选中它后点Run按钮<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F6.png" width="1024px" alt="2"><br>
-
 7.等待项目构建完成，大概30~50秒即会自动运行本项目<br>
-
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2F7.png" width="1024px" alt="2"><br>
 
-### 感谢🙏~
-
-谢谢喏~ 🙏谢谢(🙏ˊᗜˋ*) 祝您阖家平安!六腑调泰!朱颜长春进致四方钱财~生活常处富足之中!~~~
+### 捐助
+如果您愿意赞助该项目或为我买一杯咖啡<br>
+那么我只好<br>
+谢谢喏~ 🙏谢谢(🙏ˊᗜˋ*) 祝您阖家平安!六腑调泰!朱颜长春 进致四方钱财~生活常处富足之中!~~~
 
 <img src="https://glaze-1253247173.cos.ap-chengdu.myqcloud.com/%E8%89%B2%E6%90%AD%2Faa.png" width="80%" alt="答谢作者">
